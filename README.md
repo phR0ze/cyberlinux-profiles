@@ -11,7 +11,7 @@ building infinitely flexible <b><i>cyberlinux</i></b> deployments.
 Licensing/copyright use restrictions depend on the packages included in the profile.  Profiles that
 are restricted in their use to ***personal use only*** have been named with a preceeding
 ***personal*** tag. Additionally profiles aimed at specific hardware have been named with a trailing
-**arch** called out e.g. ***personal-celes.yml*** which targets the ***Samsung Chromebook 3*** using
+**arch** called out e.g. ***personal-celes.yaml*** which targets the ***Samsung Chromebook 3*** using
 its codename and calls out that packages are being included that restrict the use of deployments
 created from this profile to personal use only.
 
