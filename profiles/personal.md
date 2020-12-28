@@ -1,7 +1,7 @@
 # cyberlinux Personal Use Profile
 <img align="left" width="48" height="48" src="https://raw.githubusercontent.com/phR0ze/cyberlinux/master/art/logo_256x256.png">
 This profile uses applications with various restrictions and can not be used
-for commercial purposes. It is only to be used for personal use only.
+for commercial purposes. It is to be used for personal use only.
 
 ### Disclaimer
 ***cyberlinux*** comes with absolutely no guarantees or support of any kind. It is to be used at
@@ -77,6 +77,9 @@ changes useful for a laptop such as:
 * IDT 92HD71 Audio
 * Dell Wireless 1397 WLAN
 * Marvell Yukon 88E8040 PCI-E Fast Ethernet
+
+### Updating to Latest <a name="updating-to-latest"/></a>
+1. ll
 
 # Theater Deployment <a name="theater-deployment"/></a>
 Xorg desktop environment focusing on media playback

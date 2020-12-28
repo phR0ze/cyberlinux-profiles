@@ -23,7 +23,7 @@
 # Maintainer: phR0ze
 #-------------------------------------------------------------------------------
 pkgname=cyberlinux-profiles
-pkgver=0.0.4
+pkgver=0.0.5
 pkgrel=1
 pkgdesc='Profiles for the cyberlinux project'
 arch=('any')
