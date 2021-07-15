@@ -9,8 +9,8 @@ pre-baked deployment flavors being maintained for the <b>cyberlinux project</b>.
 
 ### Disclaimer
 ***cyberlinux-config*** comes with absolutely no guarantees or support of any kind. It is to be used at
-your own risk.  Any damages, issues, losses or problems caused by the use of ***cyberlinux-config*** are
-strictly the responsiblity of the user and not the developer/creator of ***cyberlinux-config***.
+your own risk.  Any damages, issues, losses or problems caused by the use of ***cyberlinux-profiles***
+are strictly the responsiblity of the user and not the developer/creator of ***cyberlinux-profiles***.
 
 **Licensing/copyright use restrictions depend on the packages included in the profile**.  Profiles that
 are restricted in their use to ***personal use only*** have the keyword ***personal*** in the naming
@@ -60,7 +60,7 @@ Licensed under either of:
  * MIT license [LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT
  * Apache License, Version 2.0 [LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0
 
-## Contribution <a name="contribution"/></a>
+### Contribution <a name="contribution"/></a>
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in
 this project by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without
 any additional terms or conditions.
