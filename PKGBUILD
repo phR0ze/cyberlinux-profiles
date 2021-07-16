@@ -32,7 +32,7 @@ pkgname=(
 #    'cyberlinux-desktop-profile'   # shell
 #    'cyberlinux-laptop-profile'    # laptop
 )
-pkgver=0.0.11
+pkgver=0.0.14
 pkgrel=1
 pkgdesc='Configuration for various cyberlinux profiles'
 arch=('any')
